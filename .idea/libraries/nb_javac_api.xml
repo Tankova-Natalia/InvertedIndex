@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nb-javac-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.jsoup/javac-api/nb-javac-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
